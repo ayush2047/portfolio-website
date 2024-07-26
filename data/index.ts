@@ -74,7 +74,7 @@ export const navItems = [
       id: 1,
       title: "Prachaar- Advertisement Management Platform",
       des: " A platform for triangulating the desired locations for advertisement.",
-      img: "/designer.jpeg",
+      img: "/Designer.jpeg",
       iconLists: ["/htmllogo.png", "/cssLogo.png", "/png-clipart-javascript-logo-computer-icons-vue-js-angle-text-thumbnail-removebg-preview.png", "/jsx.png"],
       link: "github.com/ayush2047/Prachaar.git",
     },
