@@ -39,7 +39,7 @@ const Hero = () => {
         />
  
       </a>*/}
-      <a href="https://drive.google.com/file/d/1c9RuFJXhi8iAOiunw9bZbBlyePm6Zhff/view?usp=sharing">
+      <a href="https://drive.google.com/file/d/17ltm25zARiRqv9BeurHV1fYilxRz6dli/view?usp=sharing">
       <MagicButton
       title="Download Resume"
       position="right"
